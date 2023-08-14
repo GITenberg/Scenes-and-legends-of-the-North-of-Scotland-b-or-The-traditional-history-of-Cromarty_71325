@@ -1,0 +1,31 @@
+_repo: Scenes-and-legends-of-the-North-of-Scotland-b-or-The-traditional-history-of-Cromarty_71325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Hugh
+    birthdate: 1802
+    deathdate: 1856
+    gutenberg_agent_id: '33221'
+    url: http://www.gutenberg.org/2009/agents/33221
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Miller
+description: ''
+gutenberg_issued: '2023-08-03'
+identifiers:
+  gutenberg: '71325'
+language: en
+pgterms:marc904: https://archive.org/details/worksmiller01mill
+pgterms:marc905: 20201004042558miller
+pgterms:marc906: '1869'
+pgterms:marc907: GB
+production_note: Susan Skinner, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWilliam P. Nimmo, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Scenes and legends of the North of Scotland : $b or, The traditional history
+  of Cromarty'
+url: http://www.gutenberg.org/ebooks/71325
